@@ -30,6 +30,7 @@ index.html
 
 You will see the page
 
+ ![index.html](https://github.com/jodorganistaca/My_cv_webpage/blob/master/index_html.png) 
 
 ## Deployment
 
