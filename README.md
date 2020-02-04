@@ -1,6 +1,6 @@
 # My_cv_webpage
 
-A Web Page of my curriculum vitae. The objetive of the project, was visualize my skills, visualize some information about me and visualize some projects that I took part in.
+A Web Page of my curriculum vitae. The objetive of the project was to visualize my skills, some information about me and some projects that I took part in.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ First clone the repo
 git clone https://github.com/jodorganistaca/My_cv_webpage.git
 ```
 
-Open the hmtl
+Open the html
 
 ```
 index.html
@@ -55,5 +55,5 @@ This project is licensed under the MIT License - see the (http://opensource.org/
 
 ## Acknowledgments
 
-* I was happy that the page deploy
+* I was happy that the page deployed
 * etc
